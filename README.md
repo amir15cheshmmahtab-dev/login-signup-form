@@ -10,7 +10,7 @@ This project is a modern, single-page application (SPA) built with **React.js** 
 
 The application uses **CSS Modules** for component-specific styling and **React Toastify** for user feedback on form submission and validation.
 
-✨ Key Features
+✨ Key Features : 
 
   * **Client-Side Validation:** Real-time form input validation for fields like name, email, password length, and password confirmation.
   * **Routing:** Seamless navigation between the Login and Sign Up pages using **React Router DOM**.
