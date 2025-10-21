@@ -10,7 +10,7 @@ This project is a modern, single-page application (SPA) built with **React.js** 
 
 The application uses **CSS Modules** for component-specific styling and **React Toastify** for user feedback on form submission and validation.
 
-## Key Features
+##✨ Key Features
 
   * **Client-Side Validation:** Real-time form input validation for fields like name, email, password length, and password confirmation.
   * **Routing:** Seamless navigation between the Login and Sign Up pages using **React Router DOM**.
@@ -19,14 +19,14 @@ The application uses **CSS Modules** for component-specific styling and **React 
   * **User Feedback:** Implements **React Toastify** to provide clear success or error notifications upon form submission.
   * **Default Route:** The root path (`/`) automatically redirects to the Login page.
 
-## Technologies Used
+## 🛠️ Technologies Used
 
   * **React**
   * **React Router DOM**
   * **React Toastify**
   * **CSS Modules**
 
-## Getting Started
+## 🚀 Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine.
 
@@ -64,7 +64,7 @@ npm start
 
 The application should open automatically in your browser at `http://localhost:3000`.
 
-## Project Structure
+## 📂 Project Structure
 
 | File/Folder | Description |
 | :--- | :--- |
